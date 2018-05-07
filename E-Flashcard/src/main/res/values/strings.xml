@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Flashcard</string>
+    <string name="title_activity_card">FlashCards</string>
+    <string name="title_activity_words">Your Words</string>
+    <string name="title_activity_trans">Translate</string>
+    <string name="title_activity_irregular">Irregular Verbs</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="bai">  android:text="Bài 1: CONTRACT"</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_weight="4">
+
+    <TextView
+        android:id="@+id/tv_stt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="STT" />
+    <TextView
+        android:id="@+id/tv_verbs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="ĐT nguyên mẫu" />
+    <TextView
+        android:id="@+id/tv_verb_QKD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Quá khứ đơn"/>
+    <TextView
+        android:id="@+id/tv_verb_QKPT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Quá khứ phân từ"/>
+    <TextView
+        android:id="@+id/Nghia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Nghĩa của động từ"/>
+
+</LinearLayout>
